@@ -20,16 +20,16 @@ body {
     color: white
 }
 #home-score,#guest-score{
-     width: 130px;
-    height: 120px;
+     width: 250px;
+    height: 150px;
     top: 125px;
     font-family: 'Cursed Timer ULiL';
     font-style: normal;
     font-weight: 400;
-    font-size: 90px;
+    font-size: 100px;
     line-height: 127px;
     color: #F94F6D;
-    padding: 20px;
+    padding: 60px 20px;
     margin: auto;
     border: 5px;
     border-radius: 5px;
@@ -52,12 +52,12 @@ button{
     top: 280px;
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 20px;
     line-height: 25px;
     color: #9AABD8;
 }
 #new-game{
-    width: 100px;
+    width: 250px;
     display: block;
     margin: auto;
     background-color:cadetblue;
